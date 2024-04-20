@@ -13,7 +13,12 @@
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
-    <description>修复Win11微软中文输入法无法使用SHIFT F6, SHIFT F10快捷键</description>
+    <description><![CDATA[
+        Fixed the problem that the Win11 Microsoft Chinese input method cannot use the SHIFT F6 and SHIFT F10 shortcut keys
+        <br>
+        &#20462;&#22797;&#87;&#105;&#110;&#49;&#49;&#24494;&#36719;&#20013;&#25991;&#36755;&#20837;&#27861;&#26080;&#27861;&#20351;&#29992;&#83;&#72;&#73;&#70;&#84;&#32;&#70;&#54;&#44;&#32;&#83;&#72;&#73;&#70;&#84;&#32;&#70;&#49;&#48;&#24555;&#25463;&#38190;
+        <br>
+    ]]></description>
 
     <!-- Product and plugin compatibility requirements.
          Read more: https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
